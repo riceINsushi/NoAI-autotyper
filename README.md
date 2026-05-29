@@ -7,7 +7,10 @@ if you wanna package the exe yourself here is the pyinstaller line just to make 
 ```python
 python -m PyInstaller --noconsole --onefile autotype.py
 ```
-
+or
+```python
+PyInstaller --noconsole --onefile autotype.py
+```
 --
 
 NOTE: This is something I made within like a few hours because it pissed me off that I got 2 back to back ads of "AI auto typing! Makes your life so much easier when you can let AI do it for you", im ok with AI as in a tool but for programs like that it's pointless and a waste of electricity and water and so much other problems added onto current issues.
