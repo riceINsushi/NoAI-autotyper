@@ -1,0 +1,2 @@
+This is an example text.
+Paste your contents into the provided text field in the program or change the Typeable.txt file in the same directory as the exe
