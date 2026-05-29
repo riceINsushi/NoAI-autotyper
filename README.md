@@ -1,5 +1,5 @@
 # NoAI-autotyper
-You don't need AI to autotype, just a single python script[includes simple ui for easy to use controls]
+You don't need AI to autotype, just a single python script
 
 A lightweight Python script that simulates human like typing using pyautogui with a simple Tkinter UI. It includes adjustable speed, random delay variation, and a builtin text editor. No AI, just automation.
 
